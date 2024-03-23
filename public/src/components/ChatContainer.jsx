@@ -119,7 +119,7 @@ const Container = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 2rem;
+    padding: 2rem;
     .user-details {
       display: flex;
       align-items: center;
@@ -145,7 +145,7 @@ const Container = styled.div`
     &::-webkit-scrollbar {
       width: 0.2rem;
       &-thumb {
-        background-color: #ffffff39;
+        background-color: #f6f6f6;
         width: 0.1rem;
         border-radius: 1rem;
       }
